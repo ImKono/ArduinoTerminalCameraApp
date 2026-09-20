@@ -1,0 +1,33 @@
+Objetivos:
+- Obtener imagen de una cámara
+- Mostrarla por una pantalla
+- Leer los comandos de serial COM del arduino
+
+Material:
+-Arduino UNO
+-Modulo camara OV7670
+-PC
+
+Librerías:
+- Boost/Asio (Serial COM)
+
+
+Aprendizaje:
+- Aprender librería de interfaz (Raylib/ImGUI)
+- Aprender a obtener el stream de video de una cámara
+- Manejar la memoria de un sistema embebido
+- Mejor uso de C++
+- Aprender a utilizar varias librerías en un proyecto
+- Arpender cmake
+
+Hitos:
+1.- Comunicación básica con la placa de Arduino UNO (Aprender entorno de desarrollo)
+2.- Obtener respuesta del COM
+3.- Crear interfaz básica de imagen y com
+4.- Familiarizarse con la camara
+5.- Obtener imagen
+
+Futuro:
+- Grabar la imagen
+- Hacer captura de frame
+- Dashboard

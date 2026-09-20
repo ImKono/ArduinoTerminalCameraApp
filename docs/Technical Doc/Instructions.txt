@@ -1,0 +1,15 @@
+Para compilar el proyecto en placa Arduino:
+- Desde el Arduino IDE con sketches (se cambiará en el futuro por avr-g++ y avrdude)
+
+Para compilar la aplicación de Serial e Imagen:
+- Cmake y VS Code
+
+Cmd dentro de build
+-> Si cambio algo del CMakeLists.txt
+cmake ..
+
+-> Para buildear
+cmake --build .
+
+Cmd dentro de build/Debug
+->Para ejecutar el .exe ponemos el nombre
